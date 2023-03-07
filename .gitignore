@@ -1,0 +1,10 @@
+/build
+bootstrap.*
+classic.json*
+modern.json*
+.sencha
+node_modules
+/generatedFiles
+/cordova
+/node_modules
+main.*.js
