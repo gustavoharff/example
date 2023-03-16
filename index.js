@@ -1,2 +1,2 @@
 //this file exists so the webpack build process will succeed
-Ext.moment = require('moment')
+Ext.hi = require('ext-simple-package-test')

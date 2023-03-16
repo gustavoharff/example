@@ -23,7 +23,7 @@
     "@sencha/ext-classic": "~7.6.0",
     "@sencha/ext-classic-locale": "^7.6.0",
     "@sencha/ext-classic-theme-classic": "~7.6.0",
-    "moment": "^2.29.4"
+    "ext-simple-package-test": "^1.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",

@@ -15,7 +15,7 @@ Ext.application({
     mainView: 'MyApp.List',
 
     onBeforeLaunch: function () {
-        console.log('now', Ext.moment().format());
+        console.log(Ext.hi());
 
         this.callParent(arguments);
     }
